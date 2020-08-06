@@ -10,6 +10,19 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [ReactJS](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
+### Dependências
+
+- [Axios](https://github.com/axios/axios)
+- [React Scritps](https://github.com/facebook/create-react-app#readme)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [React Router DOM](https://github.com/ReactTraining/react-router#readme)
+- [React Modal](https://github.com/reactjs/react-modal)
+- [Unform](https://github.com/Rocketseat/unform)
+- [Styled Components](https://styled-components.com/)
+- [Yup](https://github.com/jquense/yup)
+
+
+
 
 ### Padronização de código
 
@@ -21,7 +34,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
   - [Visual Studio Code](https://code.visualstudio.com/)
 
-## Instalando a aplicação
+## 📦️ Como utilizar o projeto
+
 1 - git clone https://github.com/SandroAlmeidaDev/gostack-desafio-reactjs-crud.git
 
 2 - cd gostack-desafio-reactjs-crud
@@ -50,7 +64,7 @@ Para instalar as dependências e iniciar o projeto, você pode utilizar o Yarn o
   ❯ npm start
 ```
 
-## Rodando API Fake
+## 📦️ Como utilizar a API do projeto
 
 1 - yarn json-server server.json -p 3333
 
